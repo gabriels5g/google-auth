@@ -1,3 +1,3 @@
-#Deploy
+#Site já está no ar!
 
-https://first-site-gabriels5g.vercel.app/
+Deploy: https://first-site-gabriels5g.vercel.app/
