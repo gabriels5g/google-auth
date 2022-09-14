@@ -28,7 +28,7 @@ export function SignIn() {
       <div className="user">
         {user.photoURL && <img src={user.photoURL} alt="FOTO" />}
       </div>
-      <h1>Acesse sua conta teste</h1>
+      <h1>Acesse sua conta</h1>
       <span>
         Utilizaçao autenticaçao social, por exemplo, autenticaçao com a Google
         você <br />
